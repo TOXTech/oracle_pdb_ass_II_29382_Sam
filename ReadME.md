@@ -21,7 +21,7 @@ This repository contains the complete implementation of Oracle Pluggable Databas
 
 | Component            | Details             |
 | -------------------- | ------------------- |
-| **Operating System** | Windows 11 / Linux  |
+| **Operating System** | Windows 11          |
 | **Oracle Version**   | Oracle Database 21c |
 | **CDB Name**         | ORCL                |
 | **OEM HTTPS Port**   | 5500                |
@@ -43,7 +43,7 @@ Created PDB from seed:
 
 ```sql
 CREATE PLUGGABLE DATABASE sa_pdb_29382
-    ADMIN USER pdbadmin IDENTIFIED BY AdminPass123
+    ADMIN USER pdbadmin IDENTIFIED BY plsql
     FILE_NAME_CONVERT = (...);
 ```
 
