@@ -63,9 +63,9 @@ GRANT ALL PRIVILEGES TO sam_plsqlauca_29382;
 
 ### Evidence
 
-![PDB Creation](assets/01_pdb_creation_success.png)
-![User Created](assets/05_user_created.png)
-![User Test](assets/07_test_successful.png)
+![PDB Creation](Assets/01_pdb_creation_success.png)
+![User Created](Assets/05_user_created.png)
+![User Test](Assets/07_test_successful.png)
 
 ---
 
@@ -86,9 +86,9 @@ GRANT ALL PRIVILEGES TO sam_plsqlauca_29382;
 
 ### Evidence
 
-![PDB Created](assets/08_temp_pdb_exists.png)
-![PDB Dropped](assets/10_pdb_dropped.png)
-![Deletion Confirmed](assets/11_pdb_deleted_confirmed.png)
+![PDB Created](Assets/08_temp_pdb_exists.png)
+![PDB Dropped](Assets/10_pdb_dropped.png)
+![Deletion Confirmed](Assets/11_pdb_deleted_confirmed.png)
 
 ---
 
@@ -102,6 +102,12 @@ GRANT ALL PRIVILEGES TO sam_plsqlauca_29382;
 
 ### Evidence
 
-![OEM Dashboard](assets/13_oem_dashboard_main.png)
+![OEM Dashboard](Assets/13_oem_dashboard_main.png)
+
+---
+
+## Integrity Statement
+
+All sources were properly cited. Implementations and analysis represent original work. No AIgenerated content was copied without attribution or adaptation.
 
 ---
